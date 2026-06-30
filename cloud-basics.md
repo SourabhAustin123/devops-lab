@@ -1,4 +1,4 @@
-#Cloud Computing notes
+# Cloud Computing notes
 ## What is Cloud Computing
 Cloud computing is the delivery of computing services such as servers, storage, databases, networking, and software over the internet instead of using local computers or physical servers.
 ## Public Cloud
